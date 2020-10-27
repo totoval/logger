@@ -1,9 +1,9 @@
 package pkg
 
 import (
-	"logger/internal"
-	"logger/internal/logrus"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/internal"
+	"github.com/totoval/logger/internal/logrus"
+	"github.com/totoval/logger/pkg/structs"
 	"reflect"
 	"testing"
 )

@@ -2,10 +2,10 @@ package pkg
 
 import (
 	"errors"
-	"logger/internal"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/internal"
+	"github.com/totoval/logger/pkg/structs"
 
-	"logger/internal/logrus"
+	"github.com/totoval/logger/internal/logrus"
 )
 
 type Log struct {

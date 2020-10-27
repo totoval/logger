@@ -2,9 +2,9 @@ package main
 
 import (
 	"github.com/totoval/framework/helpers/toto"
-	"logger/pkg"
-	"logger/pkg/facade"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/pkg"
+	"github.com/totoval/logger/pkg/facade"
+	"github.com/totoval/logger/pkg/structs"
 )
 
 //@todo register into global vars

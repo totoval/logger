@@ -2,8 +2,8 @@ package logrus
 
 import (
 	"github.com/sirupsen/logrus"
-	"logger/internal"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/internal"
+	"github.com/totoval/logger/pkg/structs"
 	"reflect"
 	"testing"
 )

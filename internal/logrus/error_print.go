@@ -3,8 +3,8 @@ package logrus
 import (
 	"fmt"
 	"github.com/totoval/framework/helpers/toto"
+	"github.com/totoval/logger/pkg/structs"
 	"github.com/ztrue/tracerr"
-	"logger/pkg/structs"
 )
 
 func (l *Log) errPrintln(err error, fields toto.V) {

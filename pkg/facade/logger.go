@@ -2,7 +2,7 @@ package facade
 
 import (
 	"github.com/totoval/framework/helpers/toto"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/pkg/structs"
 )
 
 type Logger interface {

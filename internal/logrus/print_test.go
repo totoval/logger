@@ -3,7 +3,7 @@ package logrus
 import (
 	"github.com/sirupsen/logrus"
 	"github.com/totoval/framework/helpers/toto"
-	"logger/pkg/structs"
+	"github.com/totoval/logger/pkg/structs"
 	"testing"
 )
 
